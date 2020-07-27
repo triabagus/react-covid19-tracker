@@ -31,10 +31,12 @@ npm start
 # Package
 ```bash
 npm install --save axios react-chartjs-2 react-countup classnames
+npm install --save @material-ui/core
 ```
 
 # Helper
 - [API: Covid19 mathdro](https://covid19.mathdro.id/api)
+- [Material UI](https://material-ui.com/)
 - Json Formater for extensions browser 
  
 # Reference
