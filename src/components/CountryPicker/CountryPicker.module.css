@@ -1,5 +1,15 @@
 .formControl{
     width:30%;
-    margin-bottom: 30px !important;
+    margin-bottom: 50px !important;
+    box-shadow: 9px 9px 16px rgb(163,177,198,0.6), -9px -9px 16px    rgba(255,255,255, 0.5) !important;
+}
 
+.selectControl{
+    padding:10px 15px !important;
+}
+
+@media(max-width:770px){
+    .formControl{
+        width:100%;
+    }
 }
